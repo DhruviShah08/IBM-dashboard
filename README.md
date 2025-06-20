@@ -41,7 +41,7 @@ YearsSinceLastPromotion
 YearsWithCurrManager  
 
 📷 Dashboard Preview:
-
+ibm_dashboard.png
 
 
 
